@@ -21,6 +21,5 @@ export default () => ({
             text: 'Elit amet enim consectetur magna. Dolore aliquip excepteur duis commodo in ullamco ut consectetur quis aliquip duis exercitation. Incididunt anim sit cillum non aliqua reprehenderit nulla nulla laboris exercitation reprehenderit sit ex magna. Pariatur et excepteur voluptate dolore consectetur veniam exercitation eiusmod non. Sit dolor ea amet aute reprehenderit qui. Ea fugiat cupidatat tempor tempor quis dolore cillum.',
             picture: null
         }
-
     ]
 })
