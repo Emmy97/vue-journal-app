@@ -1,4 +1,5 @@
 
+//No pueden ser asincronas
 export const setEntries =  ( /* commit */ ) => {
     
 }
