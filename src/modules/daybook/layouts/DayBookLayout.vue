@@ -3,6 +3,7 @@
     <div class="d-flex">
       <div class="col-4">
           <!-- Entry list -->
+          <!-- <h1>hoakfs</h1> -->
           <EntryList />
       </div>
       <div class="col">                            
